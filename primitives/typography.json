@@ -3,36 +3,36 @@
     "value": "Inter",
     "type": "fontFamilies"
   },
-  "font-family-nunito": {
-    "value": "Nunito",
-    "type": "fontFamilies"
-  },
-  "font-family-bowlby": {
-    "value": "Bowlby One",
-    "type": "fontFamilies"
-  },
-  "font-weight-bold": {
-    "value": "Bold",
+  "font-weight-thin": {
+    "value": "Thin",
     "type": "fontWeights"
   },
-  "font-weight-semi-bold": {
-    "value": "Semi Bold",
-    "type": "fontWeights"
-  },
-  "font-weight-semibold": {
-    "value": "SemiBold",
+  "font-weight-extralight": {
+    "value": "ExtraLight",
     "type": "fontWeights"
   },
   "font-weight-regular": {
     "value": "Regular",
     "type": "fontWeights"
   },
-  "font-weight-light": {
-    "value": "Light",
+  "font-weight-medium": {
+    "value": "Medium",
     "type": "fontWeights"
   },
-  "font-weight-roman": {
-    "value": "Roman",
+  "font-weight-semibold": {
+    "value": "SemiBold",
+    "type": "fontWeights"
+  },
+  "font-weight-bold": {
+    "value": "Bold",
+    "type": "fontWeights"
+  },
+  "font-weight-extrabold": {
+    "value": "ExtraBold",
+    "type": "fontWeights"
+  },
+  "font-weight-black": {
+    "value": "Black",
     "type": "fontWeights"
   },
   "font-weight-italic": {

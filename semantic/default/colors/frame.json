@@ -4,11 +4,11 @@
     "type": "color"
   },
   "color-frame-neutral": {
-    "value": "{color-ui-25}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "color-frame-accent": {
-    "value": "{deep-sky.deep-sky-100}",
+    "value": "{glacier.glacier-75}",
     "type": "color"
   }
 }
