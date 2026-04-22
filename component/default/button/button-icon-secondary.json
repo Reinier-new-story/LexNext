@@ -36,15 +36,15 @@
     "type": "color"
   },
   "button-icon-secondary-solid-color-icon": {
-    "value": "{base-color-white}",
+    "value": "{base-color-black}",
     "type": "color"
   },
   "button-icon-secondary-solid-color-icon-hover": {
-    "value": "{base-color-white}",
+    "value": "{base-color-black}",
     "type": "color"
   },
   "button-icon-secondary-solid-color-icon-active": {
-    "value": "{base-color-white}",
+    "value": "{base-color-black}",
     "type": "color"
   },
   "button-icon-secondary-outline-color-icon": {

@@ -36,15 +36,15 @@
     "type": "color"
   },
   "checkbox-icon-color": {
-    "value": "{color-secondary.color-secondary-100}",
+    "value": "{color-primary.color-primary-100}",
     "type": "color"
   },
   "checkbox-icon-color-hover": {
-    "value": "{color-secondary.color-secondary-125}",
+    "value": "{color-primary.color-primary-125}",
     "type": "color"
   },
   "checkbox-icon-color-active": {
-    "value": "{color-secondary.color-secondary-150}",
+    "value": "{color-primary.color-primary-150}",
     "type": "color"
   },
   "checkbox-icon-color-selected": {

@@ -8,7 +8,7 @@
     "type": "fontWeights"
   },
   "font-weight-extralight": {
-    "value": "ExtraLight",
+    "value": "Extra Light",
     "type": "fontWeights"
   },
   "font-weight-regular": {
@@ -20,7 +20,7 @@
     "type": "fontWeights"
   },
   "font-weight-semibold": {
-    "value": "SemiBold",
+    "value": "Semi Bold",
     "type": "fontWeights"
   },
   "font-weight-bold": {
@@ -28,7 +28,7 @@
     "type": "fontWeights"
   },
   "font-weight-extrabold": {
-    "value": "ExtraBold",
+    "value": "Extra Bold",
     "type": "fontWeights"
   },
   "font-weight-black": {

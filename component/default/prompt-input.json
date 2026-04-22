@@ -11,6 +11,10 @@
     "value": "{base-color-white}",
     "type": "color"
   },
+  "prompt-input-color-icon": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
   "prompt-input-color-border": {
     "value": "{color-ui-100}",
     "type": "color"

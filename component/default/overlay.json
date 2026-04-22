@@ -1,7 +1,16 @@
 {
   "overlay-color-background": {
-    "value": "{base-color-black-opacity-45}",
-    "type": "color"
+    "value": "{color-primary.color-primary-175}",
+    "type": "color",
+    "$extensions": {
+      "studio.tokens": {
+        "modify": {
+          "type": "alpha",
+          "value": "0.45",
+          "space": "lch"
+        }
+      }
+    }
   },
   "overlay-xl-padding": {
     "value": "{spacing-40}",

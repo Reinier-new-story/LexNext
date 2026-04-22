@@ -6,7 +6,7 @@
   "form-field-label-font-label": {
     "value": {
       "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-semi-bold}",
+      "fontWeight": "{font-weight-semibold}",
       "lineHeight": "{font-leading-relaxed}",
       "fontSize": "{font-size-sm}"
     },

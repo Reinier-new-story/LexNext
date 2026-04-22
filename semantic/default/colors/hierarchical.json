@@ -1,35 +1,35 @@
 {
   "color-primary": {
     "color-primary-25": {
-      "value": "{marigold.marigold-25}",
+      "value": "{amethyst.amethyst-25}",
       "type": "color"
     },
     "color-primary-50": {
-      "value": "{marigold.marigold-50}",
+      "value": "{amethyst.amethyst-50}",
       "type": "color"
     },
     "color-primary-75": {
-      "value": "{marigold.marigold-75}",
+      "value": "{amethyst.amethyst-75}",
       "type": "color"
     },
     "color-primary-100": {
-      "value": "{marigold.marigold-100}",
+      "value": "{amethyst.amethyst-100}",
       "type": "color"
     },
     "color-primary-125": {
-      "value": "{marigold.marigold-125}",
+      "value": "{amethyst.amethyst-125}",
       "type": "color"
     },
     "color-primary-150": {
-      "value": "{marigold.marigold-150}",
+      "value": "{amethyst.amethyst-150}",
       "type": "color"
     },
     "color-primary-175": {
-      "value": "{marigold.marigold-175}",
+      "value": "{amethyst.amethyst-175}",
       "type": "color"
     },
     "color-primary-opacity-04": {
-      "value": "{marigold.marigold-100}",
+      "value": "{amethyst.amethyst-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -42,7 +42,7 @@
       }
     },
     "color-primary-opacity-08": {
-      "value": "{marigold.marigold-100}",
+      "value": "{amethyst.amethyst-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -55,7 +55,7 @@
       }
     },
     "color-primary-opacity-12": {
-      "value": "{marigold.marigold-100}",
+      "value": "{amethyst.amethyst-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -70,35 +70,35 @@
   },
   "color-secondary": {
     "color-secondary-25": {
-      "value": "{amethyst.amethyst-25}",
+      "value": "{marigold.marigold-25}",
       "type": "color"
     },
     "color-secondary-50": {
-      "value": "{amethyst.amethyst-50}",
+      "value": "{marigold.marigold-50}",
       "type": "color"
     },
     "color-secondary-75": {
-      "value": "{amethyst.amethyst-75}",
+      "value": "{marigold.marigold-75}",
       "type": "color"
     },
     "color-secondary-100": {
-      "value": "{amethyst.amethyst-100}",
+      "value": "{marigold.marigold-100}",
       "type": "color"
     },
     "color-secondary-125": {
-      "value": "{amethyst.amethyst-125}",
+      "value": "{marigold.marigold-125}",
       "type": "color"
     },
     "color-secondary-150": {
-      "value": "{amethyst.amethyst-150}",
+      "value": "{marigold.marigold-150}",
       "type": "color"
     },
     "color-secondary-175": {
-      "value": "{amethyst.amethyst-175}",
+      "value": "{marigold.marigold-175}",
       "type": "color"
     },
     "color-secondary-opacity-04": {
-      "value": "{amethyst.amethyst-100}",
+      "value": "{marigold.marigold-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -111,7 +111,7 @@
       }
     },
     "color-secondary-opacity-08": {
-      "value": "{amethyst.amethyst-100}",
+      "value": "{marigold.marigold-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -124,7 +124,7 @@
       }
     },
     "color-secondary-opacity-12": {
-      "value": "{amethyst.amethyst-100}",
+      "value": "{marigold.marigold-100}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {

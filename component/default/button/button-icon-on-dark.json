@@ -36,15 +36,15 @@
     "type": "color"
   },
   "button-icon-on-dark-solid-color-icon": {
-    "value": "{color-secondary.color-secondary-100}",
+    "value": "{color-primary.color-primary-100}",
     "type": "color"
   },
   "button-icon-on-dark-solid-color-icon-hover": {
-    "value": "{color-secondary.color-secondary-125}",
+    "value": "{color-primary.color-primary-125}",
     "type": "color"
   },
   "button-icon-on-dark-solid-color-icon-active": {
-    "value": "{color-secondary.color-secondary-150}",
+    "value": "{color-primary.color-primary-150}",
     "type": "color"
   },
   "button-icon-on-dark-outline-color-icon": {
