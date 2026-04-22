@@ -4,7 +4,7 @@
     "type": "spacing"
   },
   "tooltip-trigger-color-icon": {
-    "value": "{color-secondary.color-secondary-100}",
+    "value": "{color-primary.color-primary-100}",
     "type": "color"
   },
   "tooltip-trigger-color-icon-on-dark": {

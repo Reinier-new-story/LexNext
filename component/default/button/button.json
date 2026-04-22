@@ -84,5 +84,9 @@
   "button-sm-trailing-icon-width": {
     "value": "{size-12}",
     "type": "sizing"
+  },
+  "button-round-border-radius": {
+    "value": "{border-radius-full}",
+    "type": "borderRadius"
   }
 }
