@@ -16,11 +16,11 @@
     "type": "color"
   },
   "icon-spinner-on-dark-color-background": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "icon-spinner-on-dark-color-circle": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   }
 }

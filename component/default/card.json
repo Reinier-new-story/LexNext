@@ -36,7 +36,7 @@
     "type": "borderRadius"
   },
   "card-background-color": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "card-border-color": {

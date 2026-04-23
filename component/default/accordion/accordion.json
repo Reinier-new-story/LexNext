@@ -8,7 +8,7 @@
     "type": "border"
   },
   "accordion-color-background": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "accordion-border-radius": {

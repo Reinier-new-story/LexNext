@@ -16,11 +16,11 @@
     "type": "color"
   },
   "button-spinner-on-dark-color-background": {
-    "value": "{base-color-white}33",
+    "value": "{color-base-white}33",
     "type": "color"
   },
   "button-spinner-on-dark-color-circle": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   }
 }

@@ -48,15 +48,15 @@
     "type": "color"
   },
   "input-color-background": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "input-color-background-hover": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "input-color-background-active": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "input-color-background-disabled": {

@@ -8,7 +8,7 @@
     "type": "color"
   },
   "qa-color-background-answer": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "qa-border-answer": {

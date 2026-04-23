@@ -16,11 +16,11 @@
     "type": "color"
   },
   "button-on-dark-outline-color-background-hover": {
-    "value": "{base-color-white-opacity-12}",
+    "value": "{color-base-white-opacity-12}",
     "type": "color"
   },
   "button-on-dark-outline-color-background-active": {
-    "value": "{base-color-white-opacity-16}",
+    "value": "{color-base-white-opacity-16}",
     "type": "color"
   },
   "button-on-dark-text-color-background": {
@@ -28,11 +28,11 @@
     "type": "color"
   },
   "button-on-dark-text-color-background-hover": {
-    "value": "{base-color-white-opacity-12}",
+    "value": "{color-base-white-opacity-12}",
     "type": "color"
   },
   "button-on-dark-text-color-background-active": {
-    "value": "{base-color-white-opacity-16}",
+    "value": "{color-base-white-opacity-16}",
     "type": "color"
   },
   "button-on-dark-solid-color-text": {

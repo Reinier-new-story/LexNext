@@ -1,6 +1,6 @@
 {
   "tab-panel-color-background": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "tab-panel-contained-color-background": {

@@ -8,7 +8,7 @@
     "type": "borderRadius"
   },
   "prompt-input-color-background": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "prompt-input-color-icon": {

@@ -1,6 +1,6 @@
 {
   "sheet-color-background": {
-    "value": "{base-color-white}",
+    "value": "{color-base-white}",
     "type": "color"
   },
   "sheet-color-border": {
